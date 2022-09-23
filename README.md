@@ -29,9 +29,6 @@ and complexity. I hope you could take a look of them on my different repositorie
 
 
 
-#### 1.0.2. Business
-- ​🧷​ [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-
 
 
 
