@@ -25,8 +25,6 @@ I uploaded a Diagram which specify the recommended lecture order of the ML proje
 Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. 
 Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.  
 
-<br />
-
 #### **Top Technologies**
 
 
