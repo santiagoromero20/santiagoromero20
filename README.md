@@ -29,7 +29,7 @@ and complexity. I hope you could take a look of them on my different repositorie
 
 #### 1.2. Recommended ML Projects Road Map
 
-![PROJECTS!](projectroadmap.jpg.png)
+![PROJECTS!](car.jpeg)
 
 Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.
 
