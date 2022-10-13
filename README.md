@@ -6,7 +6,7 @@ I'm Santiago Romero a Machine Learning Engineer. I Spend most of time coding out
 
  [![Linkedin Badge](https://img.shields.io/badge/-Santi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-romero-2a019a1b3/) [![Mail Badge](https://img.shields.io/badge/-@santi.romero01-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/santi.romero01/) [![Mail Badge](https://img.shields.io/badge/-santiagooromero1234-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:santiagooromero1234@gmail.com)
 
-<!-- TODO: Add last video link -->
+
 
 - 🔭  I’m currently studying a Bachelor of Data Science at the Buenos Aires University
 - 👨‍💻​ Most used library `Scikit-Learn`
@@ -23,10 +23,15 @@ and complexity. I hope you could take a look of them on my different repositorie
 #### 1.0.1. Top Technologies
 
 
-<!-- TODO: Make technologies links takes you to repositories -->
+
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Numpy Badge](https://img.shields.io/badge/-tensorflow-F0DB4F?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F0DB4F)](#) [![ScikitLearn Badge](https://img.shields.io/badge/-scikitlearn-007acc?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Numpy-3C873A?style=for-the-badge&labelColor=black&logo=numpy&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-pandas-e535ab?style=for-the-badge&labelColor=black&logo=pandas&logoColor=e535ab)](#)
 
+#### 1.0.2. Recommended ML Projects Road Map
+
+![PROJECTS!](Captura%20de%20Pantalla%202022-10-13%20a%20la(s)%2018.47.19.png)
+
+Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.
 
 
 
