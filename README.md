@@ -20,14 +20,14 @@ and help to solve real business problems.
 Lately, I had been working on several ML projects of a wide variety of industries
 and complexity. I hope you could take a look of them on my different repositories!
 
-#### 1.0.1. Top Technologies
+#### 1.1. Top Technologies
 
 
 
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Numpy Badge](https://img.shields.io/badge/-tensorflow-F0DB4F?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F0DB4F)](#) [![ScikitLearn Badge](https://img.shields.io/badge/-scikitlearn-007acc?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Numpy-3C873A?style=for-the-badge&labelColor=black&logo=numpy&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-pandas-e535ab?style=for-the-badge&labelColor=black&logo=pandas&logoColor=e535ab)](#)
 
-#### 1.0.2. Recommended ML Projects Road Map
+#### 1.2. Recommended ML Projects Road Map
 
 ![PROJECTS!](Captura%20de%20Pantalla%202022-10-13%20a%20la(s)%2018.47.19.png)
 
