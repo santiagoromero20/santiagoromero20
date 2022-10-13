@@ -1,4 +1,4 @@
-## 1. Hi I'm Santi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+# Hi I'm Santi <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm Santiago Romero a Machine Learning Engineer. I Spend most of time coding outstanding projects or learning new technologies.
 
@@ -20,18 +20,19 @@ and help to solve real business problems.
 Lately, I had been working on several ML projects of a wide variety of industries
 and complexity. I hope you could take a look of them on my different repositories!
 
-#### 1.1. Top Technologies
+#### **Recommended ML Projects Road Map** 
+I uploaded a Diagram which specify the recommended lecture order of the ML projects on my profile repository.
+Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. 
+Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.  
 
+<br />
 
+#### **Top Technologies**
 
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Numpy Badge](https://img.shields.io/badge/-tensorflow-F0DB4F?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F0DB4F)](#) [![ScikitLearn Badge](https://img.shields.io/badge/-scikitlearn-007acc?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Numpy-3C873A?style=for-the-badge&labelColor=black&logo=numpy&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-pandas-e535ab?style=for-the-badge&labelColor=black&logo=pandas&logoColor=e535ab)](#)
 
-#### 1.2. Recommended ML Projects Road Map
 
-![PROJECTS!](car.jpeg)
-
-Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.
 
 
 
