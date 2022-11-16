@@ -21,15 +21,21 @@ Lately, I had been working on several ML projects of a wide variety of industrie
 and complexity. I hope you could take a look of them on my different repositories!
 
 #### **Recommended ML Projects Road Map** 
-I uploaded a Diagram which specify the recommended lecture order of the ML projects on my profile repository.
-Starting from two classic projects for every ML Engineer. Being the NBA Prediction a regression problem and the Credit Default a Binary Classification. 
-Then, I implemented an Iamge Classification project with particular emphasis on the Deployment step. Finally, the three last are complete end-to-end ML projects.  
+
+
+Starting from two classic type of projects for every ML Engineer. Being is ones the NBA Prediction, a regression problem, and the Credit Default Risk Analysis a Binary Classification one.
+Then, two projects more related to the Development part of an end-to-end project, puting particular enphasis on the API develop, Testing and Deployment of itself. The Social Media with FastAPI and E-Commerce Web Page with Flask.
+
+Finally, I implemented different NLP and Computer Vision projects, all of them with the EDA of a Dataset, performing Model Evaluation and lastly putting it into production.
+
+
 
 #### **Top Technologies**
 
 
 [![Python Badge](https://img.shields.io/badge/-Python-61DBFB?style=for-the-badge&labelColor=black&logo=python&logoColor=61DBFB)](#) [![Numpy Badge](https://img.shields.io/badge/-tensorflow-F0DB4F?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=F0DB4F)](#) [![ScikitLearn Badge](https://img.shields.io/badge/-scikitlearn-007acc?style=for-the-badge&labelColor=black&logo=scikit-learn&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Numpy-3C873A?style=for-the-badge&labelColor=black&logo=numpy&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-pandas-e535ab?style=for-the-badge&labelColor=black&logo=pandas&logoColor=e535ab)](#)
 
+![Alt Text](https://media.giphy.com/media/JshL4uZk1tZt5W0TWV/giphy.gif)
 
 
 
